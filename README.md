@@ -22,8 +22,8 @@ If you don’t have them installed:
 - **[Download MongoDB](https://www.mongodb.com/try/download/community)**  
 
 ### **2️⃣ Clone the Project**
-```sh
-git clone https://github.com/YOUR_GITHUB/online-store.git
+
+git clone https://github.com/tekasgf/project
 cd online-store
 
 ### **3️⃣ Install Dependencies**
